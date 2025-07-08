@@ -15,7 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewData["HomeMessage"] = "to the Nexus Supply Chain Management System!";
+        ViewData["HomeMessage"] = "Welcome to the Nexus Supply Chain Management System!";
         return View();
     }
 
