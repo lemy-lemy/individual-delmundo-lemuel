@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.web\\migrations\\20250709085535_addclasssupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\migrations\\20250709085535_addclasssupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|c:\\users\\delmunle\\desktop\\brt003\\s03\\activity\\nexusscm\\nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11709E17-AC88-4BCC-83A7-B5DC5942E928}|Nexus.Core\\Nexus.Core.csproj|solutionrelative:nexus.core\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250709085535_AddClassSupplier.cs",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs",
               "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs",
               "RelativeToolTip": "Nexus.Web\\Migrations\\20250709085535_AddClassSupplier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T08:55:35.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\Program.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Program.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Nexus.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:55:17.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:55:17.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Nexus.Web\\appsettings.json",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "Nexus.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-09T08:48:56.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:48:56.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Web\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Nexus.Web\\Data\\ApplicationDbContext.cs",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "Nexus.Web\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T08:48:05.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T08:48:05.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Core\\Product.cs",
               "RelativeDocumentMoniker": "Nexus.Core\\Product.cs",
@@ -103,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Core\\Supplier.cs",
               "RelativeDocumentMoniker": "Nexus.Core\\Supplier.cs",
               "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s03\\activity\\NexusSCM\\Nexus.Core\\Supplier.cs",
               "RelativeToolTip": "Nexus.Core\\Supplier.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T01:01:08.69Z",
               "EditorCaption": ""
