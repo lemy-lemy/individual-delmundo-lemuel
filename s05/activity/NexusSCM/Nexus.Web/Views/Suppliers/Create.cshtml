@@ -1,0 +1,30 @@
+﻿@model Nexus.Core.Supplier
+@{
+
+    ViewData["Title"] = "Create Supplier";
+
+    <h1>Create Supplier</h1>
+    <hr />
+    <div class="container mt-5">
+        <h2>Contact Form</h2>
+        <form method="post" asp-action="Create" asp-controller="Suppliers">
+            <div class="mb-3">
+                <label for="Name" class="form-label">Name</label>
+                <input type="text" class="form-control" id="Name" name="Name" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="ContactPerson" class="form-label">Contact Person</label>
+                <input type="text" class="form-control" id="ContactPerson" name="ContactPerson" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="Email" class="form-label">Email</label>
+                <input type="email" class="form-control" id="Email" name="Email" required>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create</button>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+}
