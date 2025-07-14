@@ -38,8 +38,7 @@
               "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T02:43:42.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T02:43:42.533Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Nexus.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T02:27:09.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T02:27:09.32Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s05\\activity\\NexusSCM\\Nexus.API\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T02:06:57.336Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Nexus.API\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T01:27:05.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T01:27:05.007Z"
             }
           ]
         }
