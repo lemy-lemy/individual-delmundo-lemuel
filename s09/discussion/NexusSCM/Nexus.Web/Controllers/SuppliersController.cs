@@ -3,10 +3,12 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Nexus.Core;
 using Nexus.Web.Data;
+using Nexus.Web.Filters;
 using System.Text.Json;
 
 namespace Nexus.Web.Controllers
 {
+    [SessionAuthorize]
     public class SuppliersController : Controller
         
     {
@@ -33,7 +35,9 @@ namespace Nexus.Web.Controllers
             if (response.IsSuccessStatusCode)
             {
                 var responseStream = await response.Content.ReadAsStreamAsync();
-                suppliers = await JsonSerializer.DeserializeAsync<List<Supplier>>(responseStream, new JsonSerializerOptions
+                suppliers = await JsonSerializer.DeserializeAsync<List<Supplier>>(
+                    responseStream, 
+                    new JsonSerializerOptions
                 {
                     PropertyNameCaseInsensitive = true
                 });

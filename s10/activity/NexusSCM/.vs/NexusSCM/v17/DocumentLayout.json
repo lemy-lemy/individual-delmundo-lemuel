@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22A3522-BF6B-4A5B-93B0-58ACFFA8EF9E}|Nexus.API\\Nexus.API.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22A3522-BF6B-4A5B-93B0-58ACFFA8EF9E}|Nexus.API\\Nexus.API.csproj|solutionrelative:nexus.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|c:\\users\\delmunle\\desktop\\brt003\\s10\\activity\\nexusscm\\nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D0E02D-8180-4E53-AD99-EC8807D4A20D}|Nexus.Web\\Nexus.Web.csproj|solutionrelative:nexus.web\\filters\\sessionauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.API\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Nexus.API\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:44:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T03:30:38.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T03:29:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T02:23:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "Nexus.Web\\Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T01:57:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Nexus.Web\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwMkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:41:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Nexus.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:37:08.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\delmunle\\Desktop\\BRT003\\s10\\activity\\NexusSCM\\Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "RelativeToolTip": "Nexus.Web\\Filters\\SessionAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:30:20.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
